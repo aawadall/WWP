@@ -1,4 +1,4 @@
-# PyWord
+# WWP
 Web based Word Processor
 
 ## About
